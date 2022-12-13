@@ -3,7 +3,7 @@
  * _putchar - prints _putchar and a new line
  * Return: Always 0 (Success)
  */
-int _putchar(void)
+int main(void)
 {
 	_putchar('p');
 	_putchar('u');
